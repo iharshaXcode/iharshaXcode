@@ -12,7 +12,7 @@ Welcome to my GitHub profile! I am a passionate software developer with a Bachel
 ### 💡 Skills & Interests
 
 - **Programming Languages**: Java, SQL, HTML, CSS, C, JavaScript
-- **Frameworks & Tools**: Servlet, Git, JDBC, Hibernate
+- **Frameworks & Tools**: Servlet, Git, JDBC, Hibernate, VS Code, Eclipse IDE, IntelliJ IDEA, Lombok maven
 - **Specialties**: Full-Stack Web Development, Database Management, Secure System Design, Project Management
 - **Soft Skills**: Leadership, Strategic Thinking, Collaboration, and Adaptability
 
@@ -25,14 +25,14 @@ Welcome to my GitHub profile! I am a passionate software developer with a Bachel
 ### 📚 Recent Projects & Experience
 
 - **Java Intern** - Gained hands-on experience in Java application development and code quality improvement
-- **Portfolio Website** - [iharshaxportfolioxo.netlify.app](https://iharshaxportfolioxo.netlify.app/)
+- **Portfolio Website** - [iharshaxportfolioxo.netlify.app](https://iharshaxportfolioxo.netlify.app/) 
 - **Code Reviews & Documentation** - Contributed to code quality and clarity through peer reviews and meticulous documentation
 
 ### 📈 Let's Connect
 
 I'm always open to collaboration, feedback, and new learning opportunities! Reach out to me via:
 
-- 🌐 [LinkedIn](https://www.linkedin.com/) _(linkedin.com/in/harsha-b-h-911520242)_
+- 🌐 [LinkedIn](https://www.linkedin.com/linkedin.com/in/harsha-b-h-911520242)_
 - 📧 Email: _harshabh67@gmail.com_
   
 Thank you for visiting my GitHub profile, and happy coding! 😄
