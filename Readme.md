@@ -32,7 +32,7 @@ Welcome to my GitHub profile! I am a passionate software developer with a Bachel
 
 I'm always open to collaboration, feedback, and new learning opportunities! Reach out to me via:
 
-- 🌐 [LinkedIn](https://www.linkedin.com/)_(linkedin.com/in/harsha-b-h-911520242)_
+- 🌐 LinkedIn: [linkedin.com/in/harsha-b-h-911520242 ](https://www.linkedin.com/in/harsha-b-h-911520242/)
 - 📧 Email: _harshabh67@gmail.com_
   
 Thank you for visiting my GitHub profile, and happy coding! 😄
