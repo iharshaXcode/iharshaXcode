@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I am a passionate software developer with a Bachel
 ### 📚 Recent Projects & Experience
 
 - **Java Intern** - Gained hands-on experience in Java application development and code quality improvement
-- **Portfolio Website** - [iharshaxportfolioxo.netlify.app](https://iharshaxportfolioxo.netlify.app/) 
+- **Portfolio Website** - [https://iharshaxcode.github.io/harsha-portfolio/](https://iharshaxcode.github.io/harsha-portfolio/)
 - **Code Reviews & Documentation** - Contributed to code quality and clarity through peer reviews and meticulous documentation
 
 ### 📈 Let's Connect
