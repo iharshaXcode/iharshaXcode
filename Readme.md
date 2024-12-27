@@ -4,15 +4,15 @@ Welcome to my GitHub profile! I am a passionate software developer with a Bachel
 
 ### 🚀 About Me
 
-- 🔭 I’m currently expanding my knowledge in **full-stack development** and **secure systems**.
+- 🔭 I’m currently expanding my knowledge in **full-stack development** and **automation testing**.
 - 🌱 I love exploring new technologies and have experience with **full-stack web development**, **database management**, and **biometric security integration**.
-- 👥 I enjoy **teaching and community service**, especially in tech education initiatives for underprivileged children.
-- 🎯 My goal is to continue growing in a role where I can innovate and bring value to every project.
+- 👥 I enjoy **teaching**
+- 🎯 My goal is to **continue growing** in a role where I can innovate and bring value to every project.
 
 ### 💡 Skills & Interests
 
-- **Programming Languages**: Java, SQL, HTML, CSS, C, JavaScript
-- **Frameworks & Tools**: Servlet, Git, JDBC, Hibernate, VS Code, Eclipse IDE, IntelliJ IDEA, Lombok maven
+- **Programming Languages**: Core Java, HTML, CSS, SQL, JDBC, Servlet, Spring Framework, Restful Api
+- **Developer & Testing Tools**: Selenium, MySQL, Eclipse IDE, VS Code, GitHub, Git, IntelliJ IDEA, Postman
 - **Specialties**: Full-Stack Web Development, Database Management, Secure System Design, Project Management
 - **Soft Skills**: Leadership, Strategic Thinking, Collaboration, and Adaptability
 
@@ -24,7 +24,7 @@ Welcome to my GitHub profile! I am a passionate software developer with a Bachel
 
 ### 📚 Recent Projects & Experience
 
-- **Java Intern** - Gained hands-on experience in Java application development and code quality improvement
+- **Java Developer Intern** - Gained hands-on experience in Java application development and code quality improvement from JSpiders
 - **Portfolio Website** - [https://iharshaxcode.github.io/harsha-portfolio/](https://iharshaxcode.github.io/harsha-portfolio/)
 - **Code Reviews & Documentation** - Contributed to code quality and clarity through peer reviews and meticulous documentation
 
